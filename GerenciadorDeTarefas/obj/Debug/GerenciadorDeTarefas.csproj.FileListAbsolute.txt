@@ -1,0 +1,7 @@
+C:\Users\paiva\projects\C#\GerenciadorDeTarefas\GerenciadorDeTarefas\bin\Debug\GerenciadorDeTarefas.exe.config
+C:\Users\paiva\projects\C#\GerenciadorDeTarefas\GerenciadorDeTarefas\bin\Debug\GerenciadorDeTarefas.exe
+C:\Users\paiva\projects\C#\GerenciadorDeTarefas\GerenciadorDeTarefas\bin\Debug\GerenciadorDeTarefas.pdb
+C:\Users\paiva\projects\C#\GerenciadorDeTarefas\GerenciadorDeTarefas\obj\Debug\GerenciadorDeTarefas.csproj.AssemblyReference.cache
+C:\Users\paiva\projects\C#\GerenciadorDeTarefas\GerenciadorDeTarefas\obj\Debug\GerenciadorDeTarefas.csproj.CoreCompileInputs.cache
+C:\Users\paiva\projects\C#\GerenciadorDeTarefas\GerenciadorDeTarefas\obj\Debug\GerenciadorDeTarefas.exe
+C:\Users\paiva\projects\C#\GerenciadorDeTarefas\GerenciadorDeTarefas\obj\Debug\GerenciadorDeTarefas.pdb

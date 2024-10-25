@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\paiva\\projects\\C#\\GerenciadorDeTarefas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C36824D3-21C9-4A22-80F9-1E5AFFDBB709}|GerenciadorDeTarefas\\GerenciadorDeTarefas.csproj|c:\\users\\paiva\\projects\\c#\\gerenciadordetarefas\\gerenciadordetarefas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C36824D3-21C9-4A22-80F9-1E5AFFDBB709}|GerenciadorDeTarefas\\GerenciadorDeTarefas.csproj|solutionrelative:gerenciadordetarefas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\paiva\\projects\\C#\\GerenciadorDeTarefas\\GerenciadorDeTarefas\\Program.cs",
+              "RelativeDocumentMoniker": "GerenciadorDeTarefas\\Program.cs",
+              "ToolTip": "C:\\Users\\paiva\\projects\\C#\\GerenciadorDeTarefas\\GerenciadorDeTarefas\\Program.cs",
+              "RelativeToolTip": "GerenciadorDeTarefas\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T20:22:48.159Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
